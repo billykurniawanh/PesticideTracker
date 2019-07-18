@@ -1,0 +1,45 @@
+{
+  "name": "Billy",
+  "version": "0.1.0",
+  "private": null,
+  "dependencies": {
+    "@material-ui/core": "^3.9.1",
+    "@material-ui/icons": "^3.0.2",
+    "firebase": "^5.8.2",
+    "google-map-react": "^1.1.2",
+    "google-maps-react": "^2.0.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "recharts": "^1.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.0",
+    "eslint-plugin-react": "^7.12.4",
+    "terser": "^3.14.1"
+  },
+  "description": "Update",
+  "main": "index.js",
+  "repository": "...",
+  "author": "...",
+  "license": "..."
+}
